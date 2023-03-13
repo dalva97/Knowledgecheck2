@@ -1,5 +1,0 @@
-/Users/DulceAlvarado/Projects/SD1Knowledgecheck2/obj/Debug/net7.0/SD1Knowledgecheck2.csproj.AssemblyReference.cache
-/Users/DulceAlvarado/Projects/SD1Knowledgecheck2/obj/Debug/net7.0/SD1Knowledgecheck2.GeneratedMSBuildEditorConfig.editorconfig
-/Users/DulceAlvarado/Projects/SD1Knowledgecheck2/obj/Debug/net7.0/SD1Knowledgecheck2.AssemblyInfoInputs.cache
-/Users/DulceAlvarado/Projects/SD1Knowledgecheck2/obj/Debug/net7.0/SD1Knowledgecheck2.AssemblyInfo.cs
-/Users/DulceAlvarado/Projects/SD1Knowledgecheck2/obj/Debug/net7.0/SD1Knowledgecheck2.csproj.CoreCompileInputs.cache
